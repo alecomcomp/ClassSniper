@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "106book64873",
-    "date": "2026-10-28",
-    "time": "9:15 AM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Noor Yaghi",
-    "location": "Merrylands",
-    "remaining_spots": 26,
-    "capacity": 31
-  },
-  {
-    "booking_id": "101book105744",
-    "date": "2026-10-28",
-    "time": "9:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Jasmin Salmon",
-    "location": "Surry Hills",
-    "remaining_spots": 14,
-    "capacity": 36
-  },
-  {
-    "booking_id": "103book55830",
-    "date": "2026-10-28",
-    "time": "9:30 AM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Marrickville",
-    "remaining_spots": 12,
-    "capacity": 26
-  },
-  {
-    "booking_id": "103book76975",
-    "date": "2026-10-28",
-    "time": "9:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "Marrickville",
-    "remaining_spots": 30,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book103197",
-    "date": "2026-10-28",
-    "time": "9:45 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Surry Hills",
-    "remaining_spots": 2,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book40675",
     "date": "2026-10-28",
     "time": "10:00 AM",
@@ -2537,7 +2482,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 22
   },
   {
