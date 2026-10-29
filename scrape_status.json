@@ -1,12 +1,10 @@
 {
   "result": "ok",
   "detail": null,
-  "scraped_at": "2026-10-30T09:34:27.654674+11:00",
-  "class_count": 1415,
+  "scraped_at": "2026-10-30T09:35:33.793214+11:00",
+  "class_count": 1711,
   "centers_total": 10,
-  "centers_failed": [
-    "Surry Hills"
-  ],
+  "centers_failed": [],
   "contract_breaks": {},
   "unmapped_locations": []
 }
