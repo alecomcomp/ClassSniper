@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "106book73313",
-    "date": "2026-11-01",
-    "time": "8:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 21
-  },
-  {
-    "booking_id": "104book43483",
-    "date": "2026-11-01",
-    "time": "8:00 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
-    "booking_id": "101book95915",
-    "date": "2026-11-01",
-    "time": "8:00 AM",
-    "name": "Meditation Soundscape",
-    "class_type": "Harmony Series",
-    "instructor": "Shannon Hsu",
-    "location": "Surry Hills",
-    "remaining_spots": 5,
-    "capacity": 36
-  },
-  {
-    "booking_id": "106book30769",
-    "date": "2026-11-01",
-    "time": "8:10 AM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 29,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book46678",
     "date": "2026-11-01",
     "time": "8:30 AM",
@@ -95,7 +51,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 21
   },
   {
@@ -1877,7 +1833,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shaylen Griffith",
     "location": "Haymarket",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 24
   },
   {
@@ -2031,7 +1987,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 28
   },
   {
@@ -2042,7 +1998,7 @@
     "class_type": "Spin Series",
     "instructor": "Jonathon Balzanelli",
     "location": "North Sydney",
-    "remaining_spots": 34,
+    "remaining_spots": 32,
     "capacity": 40
   },
   {
@@ -2317,7 +2273,7 @@
     "class_type": "Barre Series",
     "instructor": "Michael Roache",
     "location": "Marrickville",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 20
   },
   {
@@ -2350,7 +2306,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 15
   },
   {
@@ -2603,7 +2559,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Haymarket",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 38
   },
   {
@@ -2746,7 +2702,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Luke Lavender",
     "location": "Merrylands",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 33
   },
   {
@@ -2768,7 +2724,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kat Morrison",
     "location": "Merrylands",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 21
   },
   {
@@ -3131,7 +3087,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Newtown",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 28
   },
   {
@@ -3186,7 +3142,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 26
   },
   {
@@ -3252,7 +3208,7 @@
     "class_type": "Reformer Series",
     "instructor": "Karen Kwang",
     "location": "Surry Hills",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 18
   },
   {
