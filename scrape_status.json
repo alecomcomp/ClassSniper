@@ -1,8 +1,8 @@
 {
   "result": "ok",
   "detail": null,
-  "scraped_at": "2026-11-02T02:53:46.104745+11:00",
-  "class_count": 2143,
+  "scraped_at": "2026-11-02T03:28:33.665644+11:00",
+  "class_count": 2130,
   "centers_total": 10,
   "centers_failed": [],
   "contract_breaks": {},
