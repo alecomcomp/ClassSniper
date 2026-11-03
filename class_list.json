@@ -502,7 +502,7 @@
     "class_type": "Mat Series",
     "instructor": "Michael Roache",
     "location": "Marrickville",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 20
   },
   {
@@ -1580,7 +1580,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 26
   },
   {
@@ -1668,7 +1668,7 @@
     "class_type": "Mat Series",
     "instructor": "Amelia Gartner",
     "location": "Marrickville",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 36
   },
   {
@@ -3406,7 +3406,7 @@
     "class_type": "Spin Series",
     "instructor": "Hayley van Stom",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 35
   },
   {
