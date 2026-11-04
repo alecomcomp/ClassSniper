@@ -1,148 +1,5 @@
 [
   {
-    "booking_id": "106book74013",
-    "date": "2026-11-06",
-    "time": "8:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
-    "booking_id": "105book44453",
-    "date": "2026-11-06",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jordanna Chapman",
-    "location": "Haymarket",
-    "remaining_spots": 1,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book40757",
-    "date": "2026-11-06",
-    "time": "9:00 AM",
-    "name": "Creche (6 weeks to 18 months)",
-    "class_type": "Creche",
-    "instructor": "Athena Nikolopoulos",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 4
-  },
-  {
-    "booking_id": "103book59551",
-    "date": "2026-11-06",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book59291",
-    "date": "2026-11-06",
-    "time": "9:00 AM",
-    "name": "Barre HIIT",
-    "class_type": "Barre Series",
-    "instructor": "Michael Roache",
-    "location": "Marrickville",
-    "remaining_spots": 1,
-    "capacity": 20
-  },
-  {
-    "booking_id": "103book40303",
-    "date": "2026-11-06",
-    "time": "9:00 AM",
-    "name": "Creche (18 months - 12 years)",
-    "class_type": "Creche",
-    "instructor": "Shova Rana",
-    "location": "Marrickville",
-    "remaining_spots": 6,
-    "capacity": 8
-  },
-  {
-    "booking_id": "106book28729",
-    "date": "2026-11-06",
-    "time": "9:00 AM",
-    "name": "Creche (6 weeks to 18 months)",
-    "class_type": "Creche",
-    "instructor": "Georgia Dame",
-    "location": "Merrylands",
-    "remaining_spots": 4,
-    "capacity": 4
-  },
-  {
-    "booking_id": "106book23308",
-    "date": "2026-11-06",
-    "time": "9:00 AM",
-    "name": "Creche (18 months - 12 years)",
-    "class_type": "Creche",
-    "instructor": "Cristina Valdes",
-    "location": "Merrylands",
-    "remaining_spots": 6,
-    "capacity": 8
-  },
-  {
-    "booking_id": "106book47699",
-    "date": "2026-11-06",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 13,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book40474",
-    "date": "2026-11-06",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book97297",
-    "date": "2026-11-06",
-    "time": "9:15 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Lily Cole",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
-    "booking_id": "103book60542",
-    "date": "2026-11-06",
-    "time": "9:30 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jorge Garcia Rodriguez",
-    "location": "Marrickville",
-    "remaining_spots": 20,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book77257",
-    "date": "2026-11-06",
-    "time": "9:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book45078",
     "date": "2026-11-06",
     "time": "10:00 AM",
@@ -799,7 +656,7 @@
     "class_type": "Reformer Series",
     "instructor": "Gianna Petracic",
     "location": "North Sydney",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 24
   },
   {
@@ -1008,7 +865,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vanessa Liu",
     "location": "Haymarket",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -2372,7 +2229,7 @@
     "class_type": "Yoga Series",
     "instructor": "Megan Leung",
     "location": "Marrickville",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 36
   },
   {
@@ -2999,7 +2856,7 @@
     "class_type": "Reformer Series",
     "instructor": "Elizabeth Chun",
     "location": "North Sydney",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 24
   },
   {
@@ -18729,7 +18586,7 @@
     "class_type": "Events",
     "instructor": "Celeste Rametta",
     "location": "Zetland",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -19180,7 +19037,7 @@
     "class_type": "Events",
     "instructor": "Flyn Woodward",
     "location": "Zetland",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 21
   },
   {
