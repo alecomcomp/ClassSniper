@@ -1,1094 +1,5 @@
 [
   {
-    "booking_id": "105book40210",
-    "date": "2026-11-11",
-    "time": "6:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Haymarket",
-    "remaining_spots": 17,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book32694",
-    "date": "2026-11-11",
-    "time": "6:30 AM",
-    "name": "Upper Force",
-    "class_type": "S&C Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 21,
-    "capacity": 30
-  },
-  {
-    "booking_id": "106book42272",
-    "date": "2026-11-11",
-    "time": "6:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 5,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book36460",
-    "date": "2026-11-11",
-    "time": "6:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
-    "booking_id": "107book109332",
-    "date": "2026-11-11",
-    "time": "6:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "107book41978",
-    "date": "2026-11-11",
-    "time": "6:30 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Mark Brinker",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 40
-  },
-  {
-    "booking_id": "101book66104",
-    "date": "2026-11-11",
-    "time": "6:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Elaina Lentini",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "108book145",
-    "date": "2026-11-11",
-    "time": "6:30 AM",
-    "name": "Upper Force",
-    "class_type": "S&C Series",
-    "instructor": "Aaron Fiveash",
-    "location": "Zetland",
-    "remaining_spots": 9,
-    "capacity": 25
-  },
-  {
-    "booking_id": "108book101",
-    "date": "2026-11-11",
-    "time": "6:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book134",
-    "date": "2026-11-11",
-    "time": "6:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Leah Ferguson",
-    "location": "Zetland",
-    "remaining_spots": 13,
-    "capacity": 34
-  },
-  {
-    "booking_id": "106book84361",
-    "date": "2026-11-11",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 15,
-    "capacity": 21
-  },
-  {
-    "booking_id": "106book43412",
-    "date": "2026-11-11",
-    "time": "6:45 AM",
-    "name": "Upper Force",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 26,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book102754",
-    "date": "2026-11-11",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Isabelle Ward",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "107book51552",
-    "date": "2026-11-11",
-    "time": "6:50 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "105book41618",
-    "date": "2026-11-11",
-    "time": "7:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book40835",
-    "date": "2026-11-11",
-    "time": "7:00 AM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "103book55262",
-    "date": "2026-11-11",
-    "time": "7:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book76391",
-    "date": "2026-11-11",
-    "time": "7:00 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Anton Anton",
-    "location": "Marrickville",
-    "remaining_spots": 26,
-    "capacity": 36
-  },
-  {
-    "booking_id": "103book55989",
-    "date": "2026-11-11",
-    "time": "7:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Alek Leyland",
-    "location": "Marrickville",
-    "remaining_spots": 2,
-    "capacity": 26
-  },
-  {
-    "booking_id": "106book41731",
-    "date": "2026-11-11",
-    "time": "7:00 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Mitra Alizadeh",
-    "location": "Merrylands",
-    "remaining_spots": 29,
-    "capacity": 33
-  },
-  {
-    "booking_id": "106book69055",
-    "date": "2026-11-11",
-    "time": "7:00 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Hanna Sadek",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 34
-  },
-  {
-    "booking_id": "104book36771",
-    "date": "2026-11-11",
-    "time": "7:00 AM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 28
-  },
-  {
-    "booking_id": "104book37697",
-    "date": "2026-11-11",
-    "time": "7:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Shaylen Griffith",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book49471",
-    "date": "2026-11-11",
-    "time": "7:00 AM",
-    "name": "Upper Force",
-    "class_type": "S&C Series",
-    "instructor": "Inge Schmidt",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book380",
-    "date": "2026-11-11",
-    "time": "7:00 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Zetland",
-    "remaining_spots": 1,
-    "capacity": 30
-  },
-  {
-    "booking_id": "108book324",
-    "date": "2026-11-11",
-    "time": "7:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Lopez",
-    "location": "Zetland",
-    "remaining_spots": 1,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book21347",
-    "date": "2026-11-11",
-    "time": "7:00 AM",
-    "name": "Heartbreak | Run Only",
-    "class_type": "Apex Series",
-    "instructor": "James Wood",
-    "location": "Zetland",
-    "remaining_spots": 4,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book55002",
-    "date": "2026-11-11",
-    "time": "7:15 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Amber Libert\u00e9",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book69780",
-    "date": "2026-11-11",
-    "time": "7:15 AM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 20,
-    "capacity": 22
-  },
-  {
-    "booking_id": "107book63961",
-    "date": "2026-11-11",
-    "time": "7:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kristy Hocking",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book66839",
-    "date": "2026-11-11",
-    "time": "7:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Joey Bowling",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book107967",
-    "date": "2026-11-11",
-    "time": "7:15 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
-    "booking_id": "105book33178",
-    "date": "2026-11-11",
-    "time": "7:30 AM",
-    "name": "Upper Force",
-    "class_type": "S&C Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 16,
-    "capacity": 30
-  },
-  {
-    "booking_id": "105book40314",
-    "date": "2026-11-11",
-    "time": "7:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Haymarket",
-    "remaining_spots": 10,
-    "capacity": 38
-  },
-  {
-    "booking_id": "106book69570",
-    "date": "2026-11-11",
-    "time": "7:30 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 19,
-    "capacity": 21
-  },
-  {
-    "booking_id": "104book36408",
-    "date": "2026-11-11",
-    "time": "7:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
-    "booking_id": "107book104311",
-    "date": "2026-11-11",
-    "time": "7:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "107book42276",
-    "date": "2026-11-11",
-    "time": "7:30 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Mark Brinker",
-    "location": "North Sydney",
-    "remaining_spots": 15,
-    "capacity": 40
-  },
-  {
-    "booking_id": "101book65840",
-    "date": "2026-11-11",
-    "time": "7:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Elaina Lentini",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book102316",
-    "date": "2026-11-11",
-    "time": "7:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Isabelle Ward",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "108book102",
-    "date": "2026-11-11",
-    "time": "7:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Zetland",
-    "remaining_spots": 13,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book135",
-    "date": "2026-11-11",
-    "time": "7:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Leah Ferguson",
-    "location": "Zetland",
-    "remaining_spots": 26,
-    "capacity": 34
-  },
-  {
-    "booking_id": "108book146",
-    "date": "2026-11-11",
-    "time": "7:30 AM",
-    "name": "Upper Force",
-    "class_type": "S&C Series",
-    "instructor": "Aaron Fiveash",
-    "location": "Zetland",
-    "remaining_spots": 7,
-    "capacity": 25
-  },
-  {
-    "booking_id": "107book51132",
-    "date": "2026-11-11",
-    "time": "7:40 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "North Sydney",
-    "remaining_spots": 4,
-    "capacity": 30
-  },
-  {
-    "booking_id": "105book63467",
-    "date": "2026-11-11",
-    "time": "8:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book39920",
-    "date": "2026-11-11",
-    "time": "8:00 AM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "103book56042",
-    "date": "2026-11-11",
-    "time": "8:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Alek Leyland",
-    "location": "Marrickville",
-    "remaining_spots": 16,
-    "capacity": 26
-  },
-  {
-    "booking_id": "106book42220",
-    "date": "2026-11-11",
-    "time": "8:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 17,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book36509",
-    "date": "2026-11-11",
-    "time": "8:00 AM",
-    "name": "Gunshow",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 7,
-    "capacity": 28
-  },
-  {
-    "booking_id": "104book67608",
-    "date": "2026-11-11",
-    "time": "8:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Shaylen Griffith",
-    "location": "Newtown",
-    "remaining_spots": 2,
-    "capacity": 20
-  },
-  {
-    "booking_id": "108book123",
-    "date": "2026-11-11",
-    "time": "8:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Lopez",
-    "location": "Zetland",
-    "remaining_spots": 5,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book54687",
-    "date": "2026-11-11",
-    "time": "8:15 AM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Amber Libert\u00e9",
-    "location": "Marrickville",
-    "remaining_spots": 2,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book42532",
-    "date": "2026-11-11",
-    "time": "8:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 21
-  },
-  {
-    "booking_id": "107book62809",
-    "date": "2026-11-11",
-    "time": "8:15 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Kristy Hocking",
-    "location": "North Sydney",
-    "remaining_spots": 18,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book103008",
-    "date": "2026-11-11",
-    "time": "8:15 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Isabelle Ward",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book67456",
-    "date": "2026-11-11",
-    "time": "8:15 AM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Joey Bowling",
-    "location": "Surry Hills",
-    "remaining_spots": 1,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book105849",
-    "date": "2026-11-11",
-    "time": "8:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
-    "booking_id": "105book69820",
-    "date": "2026-11-11",
-    "time": "8:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Haymarket",
-    "remaining_spots": 25,
-    "capacity": 38
-  },
-  {
-    "booking_id": "107book109148",
-    "date": "2026-11-11",
-    "time": "8:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book66261",
-    "date": "2026-11-11",
-    "time": "8:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Elaina Lentini",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "107book51182",
-    "date": "2026-11-11",
-    "time": "8:40 AM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "North Sydney",
-    "remaining_spots": 8,
-    "capacity": 30
-  },
-  {
-    "booking_id": "106book42636",
-    "date": "2026-11-11",
-    "time": "8:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 14,
-    "capacity": 22
-  },
-  {
-    "booking_id": "105book63572",
-    "date": "2026-11-11",
-    "time": "9:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Haymarket",
-    "remaining_spots": 8,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book40306",
-    "date": "2026-11-11",
-    "time": "9:00 AM",
-    "name": "Creche (18 months - 12 years)",
-    "class_type": "Creche",
-    "instructor": "Shova Rana",
-    "location": "Marrickville",
-    "remaining_spots": 7,
-    "capacity": 8
-  },
-  {
-    "booking_id": "103book40760",
-    "date": "2026-11-11",
-    "time": "9:00 AM",
-    "name": "Creche (6 weeks to 18 months)",
-    "class_type": "Creche",
-    "instructor": "Athena Nikolopoulos",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 4
-  },
-  {
-    "booking_id": "103book55470",
-    "date": "2026-11-11",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Amelia Gartner",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book28821",
-    "date": "2026-11-11",
-    "time": "9:00 AM",
-    "name": "Creche (6 weeks to 18 months)",
-    "class_type": "Creche",
-    "instructor": "Georgia Dame",
-    "location": "Merrylands",
-    "remaining_spots": 3,
-    "capacity": 4
-  },
-  {
-    "booking_id": "106book23311",
-    "date": "2026-11-11",
-    "time": "9:00 AM",
-    "name": "Creche (18 months - 12 years)",
-    "class_type": "Creche",
-    "instructor": "Cristina Valdes",
-    "location": "Merrylands",
-    "remaining_spots": 3,
-    "capacity": 8
-  },
-  {
-    "booking_id": "104book37541",
-    "date": "2026-11-11",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Shaylen Griffith",
-    "location": "Newtown",
-    "remaining_spots": 7,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book103100",
-    "date": "2026-11-11",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Isabelle Ward",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book105746",
-    "date": "2026-11-11",
-    "time": "9:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Jasmin Salmon",
-    "location": "Surry Hills",
-    "remaining_spots": 17,
-    "capacity": 36
-  },
-  {
-    "booking_id": "103book55832",
-    "date": "2026-11-11",
-    "time": "9:30 AM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Marrickville",
-    "remaining_spots": 7,
-    "capacity": 26
-  },
-  {
-    "booking_id": "103book76977",
-    "date": "2026-11-11",
-    "time": "9:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "Marrickville",
-    "remaining_spots": 24,
-    "capacity": 36
-  },
-  {
-    "booking_id": "108book381",
-    "date": "2026-11-11",
-    "time": "9:30 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Zetland",
-    "remaining_spots": 24,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book103199",
-    "date": "2026-11-11",
-    "time": "9:45 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "105book40677",
-    "date": "2026-11-11",
-    "time": "10:00 AM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book76837",
-    "date": "2026-11-11",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Haymarket",
-    "remaining_spots": 4,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book39380",
-    "date": "2026-11-11",
-    "time": "10:00 AM",
-    "name": "Creche (18 months - 12 years)",
-    "class_type": "Creche",
-    "instructor": "Shova Rana",
-    "location": "Marrickville",
-    "remaining_spots": 6,
-    "capacity": 8
-  },
-  {
-    "booking_id": "103book55366",
-    "date": "2026-11-11",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Amelia Gartner",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book40887",
-    "date": "2026-11-11",
-    "time": "10:00 AM",
-    "name": "Creche (6 weeks to 18 months)",
-    "class_type": "Creche",
-    "instructor": "Athena Nikolopoulos",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 4
-  },
-  {
-    "booking_id": "106book68930",
-    "date": "2026-11-11",
-    "time": "10:00 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Hanna Sadek",
-    "location": "Merrylands",
-    "remaining_spots": 27,
-    "capacity": 34
-  },
-  {
-    "booking_id": "106book41991",
-    "date": "2026-11-11",
-    "time": "10:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Mason Battiato",
-    "location": "Merrylands",
-    "remaining_spots": 19,
-    "capacity": 33
-  },
-  {
-    "booking_id": "106book23470",
-    "date": "2026-11-11",
-    "time": "10:00 AM",
-    "name": "Creche (18 months - 12 years)",
-    "class_type": "Creche",
-    "instructor": "Cristina Valdes",
-    "location": "Merrylands",
-    "remaining_spots": 1,
-    "capacity": 8
-  },
-  {
-    "booking_id": "106book23965",
-    "date": "2026-11-11",
-    "time": "10:00 AM",
-    "name": "Creche (6 weeks to 18 months)",
-    "class_type": "Creche",
-    "instructor": "Georgia Dame",
-    "location": "Merrylands",
-    "remaining_spots": 1,
-    "capacity": 4
-  },
-  {
-    "booking_id": "104book37489",
-    "date": "2026-11-11",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "105book28856",
-    "date": "2026-11-11",
-    "time": "10:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Tasharni Jamieson",
-    "location": "Haymarket",
-    "remaining_spots": 10,
-    "capacity": 35
-  },
-  {
-    "booking_id": "101book106008",
-    "date": "2026-11-11",
-    "time": "10:15 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Jasmin Salmon",
-    "location": "Surry Hills",
-    "remaining_spots": 1,
-    "capacity": 36
-  },
-  {
-    "booking_id": "103book77475",
-    "date": "2026-11-11",
-    "time": "10:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "Marrickville",
-    "remaining_spots": 28,
-    "capacity": 36
-  },
-  {
-    "booking_id": "103book56489",
-    "date": "2026-11-11",
-    "time": "10:30 AM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Marrickville",
-    "remaining_spots": 18,
-    "capacity": 26
-  },
-  {
-    "booking_id": "107book104521",
-    "date": "2026-11-11",
-    "time": "10:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Gianna Petracic",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book102884",
-    "date": "2026-11-11",
-    "time": "10:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Surry Hills",
-    "remaining_spots": 1,
-    "capacity": 18
-  },
-  {
-    "booking_id": "103book75148",
-    "date": "2026-11-11",
-    "time": "10:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Amelia Gartner",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book40507",
-    "date": "2026-11-11",
-    "time": "11:00 AM",
-    "name": "Creche (18 months - 12 years)",
-    "class_type": "Creche",
-    "instructor": "Shova Rana",
-    "location": "Marrickville",
-    "remaining_spots": 8,
-    "capacity": 8
-  },
-  {
-    "booking_id": "103book41034",
-    "date": "2026-11-11",
-    "time": "11:00 AM",
-    "name": "Creche (6 weeks to 18 months)",
-    "class_type": "Creche",
-    "instructor": "Athena Nikolopoulos",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 4
-  },
-  {
-    "booking_id": "106book23597",
-    "date": "2026-11-11",
-    "time": "11:00 AM",
-    "name": "Creche (18 months - 12 years)",
-    "class_type": "Creche",
-    "instructor": "Cristina Valdes",
-    "location": "Merrylands",
-    "remaining_spots": 8,
-    "capacity": 8
-  },
-  {
-    "booking_id": "106book69885",
-    "date": "2026-11-11",
-    "time": "11:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Wood",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 22
-  },
-  {
-    "booking_id": "106book24092",
-    "date": "2026-11-11",
-    "time": "11:00 AM",
-    "name": "Creche (6 weeks to 18 months)",
-    "class_type": "Creche",
-    "instructor": "Georgia Dame",
-    "location": "Merrylands",
-    "remaining_spots": 3,
-    "capacity": 4
-  },
-  {
-    "booking_id": "104book37905",
-    "date": "2026-11-11",
-    "time": "11:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "108book124",
-    "date": "2026-11-11",
-    "time": "11:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "Zetland",
-    "remaining_spots": 17,
-    "capacity": 24
-  },
-  {
     "booking_id": "101book105911",
     "date": "2026-11-11",
     "time": "11:15 AM",
@@ -1316,7 +227,7 @@
     "class_type": "Mat Series",
     "instructor": "Bethany Rumore",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 25,
     "capacity": 38
   },
   {
@@ -1514,7 +425,7 @@
     "class_type": "Barre Series",
     "instructor": "Michael Roache",
     "location": "Surry Hills",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 23
   },
   {
@@ -1613,7 +524,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Haymarket",
-    "remaining_spots": 4,
+    "remaining_spots": 5,
     "capacity": 24
   },
   {
@@ -1756,7 +667,7 @@
     "class_type": "Mat Series",
     "instructor": "Joey Curcio",
     "location": "Surry Hills",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 36
   },
   {
@@ -1866,7 +777,7 @@
     "class_type": "Mat Series",
     "instructor": "Lily Cole",
     "location": "Newtown",
-    "remaining_spots": 2,
+    "remaining_spots": 3,
     "capacity": 23
   },
   {
@@ -2020,7 +931,7 @@
     "class_type": "Spin Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 20
   },
   {
@@ -2086,7 +997,7 @@
     "class_type": "Reformer Series",
     "instructor": "Celeste Rametta",
     "location": "Zetland",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -2416,7 +1327,7 @@
     "class_type": "Reformer Series",
     "instructor": "Celeste Rametta",
     "location": "Zetland",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 24
   },
   {
@@ -2636,7 +1547,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Merrylands",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 34
   },
   {
@@ -2889,7 +1800,7 @@
     "class_type": "Reformer Series",
     "instructor": "Tamar Hirschberg",
     "location": "Zetland",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -3043,7 +1954,7 @@
     "class_type": "Spin Series",
     "instructor": "Alexandra Doddridge",
     "location": "North Sydney",
-    "remaining_spots": 33,
+    "remaining_spots": 34,
     "capacity": 40
   },
   {
@@ -3241,7 +2152,7 @@
     "class_type": "Reformer Series",
     "instructor": "Tamar Hirschberg",
     "location": "Zetland",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 24
   },
   {
@@ -3252,7 +2163,7 @@
     "class_type": "Apex Series",
     "instructor": "Stephanie Conlin",
     "location": "Zetland",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 30
   },
   {
@@ -3263,7 +2174,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Tara McCarthy",
     "location": "Zetland",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 30
   },
   {
@@ -3461,7 +2372,7 @@
     "class_type": "Reformer Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 24
   },
   {
@@ -3571,7 +2482,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Joey Bowling",
     "location": "North Sydney",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 30
   },
   {
@@ -3758,7 +2669,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Surry Hills",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 20
   },
   {
@@ -3769,7 +2680,7 @@
     "class_type": "Mat Series",
     "instructor": "Tan Hutton",
     "location": "Surry Hills",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 36
   },
   {
@@ -3835,7 +2746,7 @@
     "class_type": "Reformer Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 12,
+    "remaining_spots": 10,
     "capacity": 24
   },
   {
@@ -3923,7 +2834,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Marrickville",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 20
   },
   {
@@ -3956,7 +2867,7 @@
     "class_type": "Mat Series",
     "instructor": "Tess Williams",
     "location": "Newtown",
-    "remaining_spots": 17,
+    "remaining_spots": 15,
     "capacity": 23
   },
   {
@@ -4088,7 +2999,7 @@
     "class_type": "Reformer Series",
     "instructor": "Alison Bruton",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 20
   },
   {
@@ -4099,7 +3010,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Haymarket",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 24
   },
   {
@@ -4143,7 +3054,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jessie Dyer",
     "location": "Zetland",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
@@ -4440,7 +3351,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Newtown",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 20
   },
   {
@@ -4583,7 +3494,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 20
   },
   {
@@ -4660,7 +3571,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Jonathon Balzanelli",
     "location": "Haymarket",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 32
   },
   {
@@ -4682,7 +3593,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Newtown",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 20
   },
   {
@@ -4737,7 +3648,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jessica Caetano",
     "location": "Marrickville",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 15
   },
   {
@@ -4792,7 +3703,7 @@
     "class_type": "Mat Series",
     "instructor": "Ahlex Leyva",
     "location": "Haymarket",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 38
   },
   {
@@ -4847,7 +3758,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Newtown",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 20
   },
   {
@@ -4858,7 +3769,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "North Sydney",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 24
   },
   {
@@ -4880,7 +3791,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jessica Caetano",
     "location": "Marrickville",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 15
   },
   {
@@ -4891,7 +3802,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mandy Moussa",
     "location": "Merrylands",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 21
   },
   {
@@ -5144,7 +4055,7 @@
     "class_type": "Dance Series",
     "instructor": "Peta Sternaras",
     "location": "Haymarket",
-    "remaining_spots": 33,
+    "remaining_spots": 31,
     "capacity": 38
   },
   {
@@ -5254,7 +4165,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "North Sydney",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 30
   },
   {
@@ -5320,7 +4231,7 @@
     "class_type": "S&C Series",
     "instructor": "Alek Leyland",
     "location": "Marrickville",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 26
   },
   {
@@ -5397,7 +4308,7 @@
     "class_type": "Reformer Series",
     "instructor": "Melissa Passe-De Silva",
     "location": "Surry Hills",
-    "remaining_spots": 8,
+    "remaining_spots": 6,
     "capacity": 18
   },
   {
@@ -5452,7 +4363,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Haymarket",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 24
   },
   {
@@ -5496,7 +4407,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "George Malouf",
     "location": "Haymarket",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 32
   },
   {
@@ -5573,7 +4484,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "North Sydney",
-    "remaining_spots": 2,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
@@ -5617,7 +4528,7 @@
     "class_type": "Reformer Series",
     "instructor": "Rashmi Kulkarni",
     "location": "Surry Hills",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 18
   },
   {
@@ -5650,7 +4561,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mandy Moussa",
     "location": "Merrylands",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 20
   },
   {
@@ -5705,7 +4616,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Haymarket",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 24
   },
   {
@@ -6816,7 +5727,7 @@
     "class_type": "Events",
     "instructor": "Natasia Phimister",
     "location": "Zetland",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -7465,7 +6376,7 @@
     "class_type": "Events",
     "instructor": "Kayla Stanton",
     "location": "Zetland",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 24
   },
   {
@@ -7509,7 +6420,7 @@
     "class_type": "Events",
     "instructor": "Natasia Phimister",
     "location": "Zetland",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 24
   },
   {
@@ -9797,7 +8708,7 @@
     "class_type": "Events",
     "instructor": "Oliver Hobbs",
     "location": "Zetland",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -12734,7 +11645,7 @@
     "class_type": "Events",
     "instructor": "Stephanie Conlin",
     "location": "Zetland",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 25
   },
   {
@@ -15836,7 +14747,7 @@
     "class_type": "Events",
     "instructor": "Jordan Lewis",
     "location": "Zetland",
-    "remaining_spots": 22,
+    "remaining_spots": 19,
     "capacity": 25
   },
   {
@@ -16265,7 +15176,7 @@
     "class_type": "Events",
     "instructor": "OP Staff",
     "location": "Zetland",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 25
   },
   {
@@ -16276,7 +15187,7 @@
     "class_type": "Events",
     "instructor": "Kim Hoffenberg",
     "location": "Zetland",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 36
   },
   {
@@ -16595,7 +15506,7 @@
     "class_type": "Events",
     "instructor": "Kim Hoffenberg",
     "location": "Zetland",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 36
   },
   {
@@ -16958,7 +15869,7 @@
     "class_type": "Events",
     "instructor": "Stephanie Conlin",
     "location": "Zetland",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 15
   },
   {
@@ -18652,7 +17563,7 @@
     "class_type": "Events",
     "instructor": "Jennifer Irvine",
     "location": "Zetland",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 15
   },
   {
@@ -19356,7 +18267,7 @@
     "class_type": "Events",
     "instructor": "Shannon Hsu",
     "location": "Zetland",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 36
   },
   {
@@ -19763,7 +18674,7 @@
     "class_type": "Events",
     "instructor": "Shannon Hsu",
     "location": "Zetland",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 36
   },
   {
@@ -22381,7 +21292,7 @@
     "class_type": "Events",
     "instructor": "Luka Cubrilo",
     "location": "Zetland",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 36
   },
   {
@@ -23393,7 +22304,7 @@
     "class_type": "Events",
     "instructor": "Jonathon Balzanelli",
     "location": "Zetland",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 30
   },
   {
@@ -23712,7 +22623,7 @@
     "class_type": "Events",
     "instructor": "Jonathon Balzanelli",
     "location": "Zetland",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 30
   },
   {
@@ -24394,7 +23305,7 @@
     "class_type": "Events",
     "instructor": "Emanuele Troise",
     "location": "Zetland",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 30
   },
   {
