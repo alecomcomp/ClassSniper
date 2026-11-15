@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book101785",
-    "date": "2026-11-17",
-    "time": "3:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Surry Hills",
-    "remaining_spots": 1,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book38200",
     "date": "2026-11-17",
     "time": "4:00 PM",
@@ -5122,7 +5111,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Marrickville",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 15
   },
   {
