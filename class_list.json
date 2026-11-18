@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book98568",
-    "date": "2026-11-20",
-    "time": "3:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 5,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book44871",
     "date": "2026-11-20",
     "time": "4:00 PM",
@@ -2691,7 +2680,7 @@
     "class_type": "Yoga Series",
     "instructor": "Shannon Hsu",
     "location": "Surry Hills",
-    "remaining_spots": 36,
+    "remaining_spots": 35,
     "capacity": 36
   },
   {
