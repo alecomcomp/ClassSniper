@@ -1,12 +1,10 @@
 {
   "result": "ok",
   "detail": null,
-  "scraped_at": "2026-11-22T08:33:34.497131+11:00",
-  "class_count": 1988,
+  "scraped_at": "2026-11-22T08:34:28.249806+11:00",
+  "class_count": 2289,
   "centers_total": 10,
-  "centers_failed": [
-    "North Sydney"
-  ],
+  "centers_failed": [],
   "contract_breaks": {},
   "unmapped_locations": []
 }
