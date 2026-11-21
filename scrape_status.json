@@ -1,14 +1,10 @@
 {
   "result": "ok",
   "detail": null,
-  "scraped_at": "2026-11-22T08:32:34.403298+11:00",
-  "class_count": 1289,
+  "scraped_at": "2026-11-22T08:33:34.497131+11:00",
+  "class_count": 1988,
   "centers_total": 10,
   "centers_failed": [
-    "Bunker",
-    "Marrickville",
-    "Haymarket",
-    "Chatswood",
     "North Sydney"
   ],
   "contract_breaks": {},
